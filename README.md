@@ -8,7 +8,7 @@
 
 ### Encantado de verte aquí!
 
-Actualmente estoy estudiando en la Universidad de Ciencias Inform&aacute;ticas en Cuba 
+Actualmente trabajo en la Universidad de Ciencias Inform&aacute;ticas en Cuba 
 
 Me encanta aprender cosas nuevas.
 
