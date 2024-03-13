@@ -4,25 +4,19 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/javicaib)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/javicaib)
 
-</br>
-
 ### Encantado de verte aquí!
 
-Actualmente trabajo en la Universidad de Ciencias Inform&aacute;ticas en Cuba 
+Actualmente trabajo en la Universidad de Ciencias Inform&aacute;ticas en Cuba como desarrollador en el proyecto [SEOWebmas](https://seowebmas.redcuba.cu/). 
 
-Me encanta aprender cosas nuevas.
-
-**Más acerca de mí:**
-
-- 👨 Soy Javier A. Roque Sa&ntilde;udo (javicaib).
-- 💬 Pregúntame cualquier cosa, siempre es un placer poder ayudar.
-- 📫 Cómo contactarme: javicaib.work@gmail.com.
-- 📕 Mi portafolio : https://javicaib.github.io/
-</br>
-
+<h2> Frontend Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/javicaib> <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react&perline=14" /> </a>
+<h2> Backend Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/javicaib> <img src="https://skillicons.dev/icons?i=py,django,fastapi,nodejs,express,mongodb,mysql,postgres&perline=14" /> </a>
+<h2> Otras Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/javicaib> <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,grafana,linux,rabbitmq&perline=14" /> </a>
+ 
 📈 **Mis estadísticas de GitHub:**
 
 <p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=javicaib&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javicaib&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=css,html"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javicaib&hide_progress=true"/>
 </p>
