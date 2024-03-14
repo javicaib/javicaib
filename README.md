@@ -1,4 +1,4 @@
-### Hola, soy <a href="https://twitter.com/javicaib" target="_blank">Javier</a> 👋
+### Hola, soy <a href="https://t.me/javi_cu" target="_blank">Javier</a> 👋
 
 [![Profile views](https://komarev.com/ghpvc/?username=javicaib&style=flat-square)](https://github.com/javicaib)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/javicaib)
