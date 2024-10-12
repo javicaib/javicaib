@@ -18,5 +18,5 @@ Actualmente trabajo en la Universidad de Ciencias Inform&aacute;ticas en Cuba co
 📈 **Mis estadísticas de GitHub:**
 
 <p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javicaib&hide_progress=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javicaib&hide_progress=true&hide=css,html"/>
 </p>
