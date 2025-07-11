@@ -6,7 +6,7 @@
 
 ### Encantado de verte aquí!
 
-Actualmente trabajo en la Universidad de Ciencias Inform&aacute;ticas en Cuba como desarrollador en el proyecto [SEOWebmas](https://seowebmas.redcuba.cu/). 
+Actualmente trabajo en la Universidad de Ciencias Inform&aacute;ticas en Cuba como desarrollador en el proyecto [Monitor Red Cuba](https://seowebmas.redcuba.cu/). 
 
 <h2> Frontend Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/javicaib> <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react&perline=14" /> </a>
