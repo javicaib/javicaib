@@ -10,7 +10,7 @@ Actualmente trabajo en la Universidad de Ciencias Inform&aacute;ticas en Cuba co
 
 <h2> Frontend Skills </h2>
 <a href= https://github.com/javicaib> <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,angular&perline=14" /> </a>
-<h2> Backend Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Backend Skills </h2>
 <a href= https://github.com/javicaib> <img src="https://skillicons.dev/icons?i=java,spring,py,mysql,postgres&perline=14" /> </a>
 <h2> Otras Skills </h2>
 <a href= https://github.com/javicaib> <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,grafana,linux,rabbitmq&perline=14" /> </a>
